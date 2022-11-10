@@ -3,7 +3,7 @@
 ![Project Category](https://img.shields.io/badge/Category-Bioelectronics/Neuroscience-gold) 
 ![Muscle BioAmp Biscute Revision](https://img.shields.io/badge/Version-0.1-success)
 [![Muscle BioAmp Biscute store link](https://img.shields.io/badge/Buy-Store_(India)-white)](https://store.upsidedownlabs.tech/product/muscle-bioamp-biscute-diy/)
-[![Muscle BioAmp Biscute store link](https://img.shields.io/badge/Buy-Tindie-cyan)](https://store.upsidedownlabs.tech/product/muscle-bioamp-biscute-diy/)
+[![Muscle BioAmp Biscute Tindie link](https://img.shields.io/badge/Buy-Tindie-cyan)](https://www.tindie.com/products/upsidedownlabs/muscle-bioamp-biscute-diy-muscle-sensor/)
 [![Muscle BioAmp Biscute intro video ](https://img.shields.io/badge/Intro-YouTube-red)](https://www.youtube.com/watch?v=ujFsAE0E0nk) 
 [![Upside Down Labs GitHub Sponsors page ](https://img.shields.io/badge/Support-GitHub_Sponsor-00B5AC)](https://github.com/sponsors/upsidedownlabs) 
 [![Upside Down Labs GitHub PayPal page](https://img.shields.io/badge/Support-PayPal-00B5AC)](https://paypal.me/upsidedownlabs)
@@ -26,7 +26,7 @@ Muscle BioAmp Biscute has been created using KiCad and all the design files can 
 
 ### Assembly
 
-You can get your own Muscle BioAmp BisCute bag of parts from [our store] or [Tindie] and for assembling your Biscute you can take a look at [this interactive BOM](https://upsidedownlabs.github.io/Muscle-BioAmp-BisCute/) or the step by step guide below. 
+You can get your own Muscle BioAmp BisCute bag of parts from [our store](https://store.upsidedownlabs.tech/product/muscle-bioamp-biscute-diy/) or [Tindie](https://www.tindie.com/products/upsidedownlabs/muscle-bioamp-biscute-diy-muscle-sensor/) and for assembling your Biscute you can take a look at [this interactive BOM](https://upsidedownlabs.github.io/Muscle-BioAmp-BisCute/) or the step by step guide below. 
 
 | Step 1 - Bare board | Step 2 - 100K Resistor | Step 3 - 10K Resistor| Step 4 - 1M Resistor|
 | :----: | :----: | :----: | :----: |
