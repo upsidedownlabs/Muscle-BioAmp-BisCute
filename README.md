@@ -26,7 +26,7 @@ Muscle BioAmp Biscute has been created using KiCad and all the design files can 
 
 ![Upside Down Labs Muscle BioAmp BisCute front annotated](graphics/board/annotated.png)
 
-![Upside Down Labs Muscle BioAmp BisCute dimensions](graphics/dimensions.png)
+![Upside Down Labs Muscle BioAmp BisCute dimensions](graphics/board/dimensions.png)
 
 ![Upside Down Labs Muscle BioAmp BisCute schematic](graphics/schematic.png)
 
