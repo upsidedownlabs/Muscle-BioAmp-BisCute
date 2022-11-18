@@ -8,9 +8,11 @@
 [![Upside Down Labs GitHub Sponsors page ](https://img.shields.io/badge/Support-GitHub_Sponsor-00B5AC)](https://github.com/sponsors/upsidedownlabs) 
 [![Upside Down Labs GitHub PayPal page](https://img.shields.io/badge/Support-PayPal-00B5AC)](https://paypal.me/upsidedownlabs)
 
-Muscle BioAmp BisCute is a cute DIY EMG sensor for precise ElectroMyoGraphy (EMG) at an affordable cost. It comes with a fixed gain of x2420 and BandPass filter of 72Hz - 720Hz. To record the EMG signals you can use any standalone ADC or development board with an ADC of your choice.
+Muscle BioAmp BisCute is a cute DIY EMG sensor for precise ElectroMyoGraphy (EMG) at an affordable cost. It comes with a fixed gain of x2420 and BandPass filter of 72Hz - 720Hz. To record the EMG signals you can use any standalone ADC like ADS1115 or any microcontroller development board with an ADC of your choice like Arduino UNO/Nano.
 
 ![Upside Down Labs BioAmp EXG Pill Assembled](graphics/board/MuscleBioAmpBisCute.jpg)
+
+![Upside Down Labs BioAmp EXG Pill Assembled](graphics/ElectrodePlacementExample.jpg)
 
 
 
@@ -24,30 +26,29 @@ Muscle BioAmp Biscute has been created using KiCad and all the design files can 
 
 ![Upside Down Labs Muscle BioAmp BisCute front annotated](graphics/board/annotated.png)
 
+![Upside Down Labs Muscle BioAmp BisCute dimensions](graphics/dimensions.png)
+
+![Upside Down Labs Muscle BioAmp BisCute schematic](graphics/schematic.png)
+
 ### Assembly
 
 You can get your own Muscle BioAmp BisCute bag of parts from [our store](https://store.upsidedownlabs.tech/product/muscle-bioamp-biscute-diy/) or [Tindie](https://www.tindie.com/products/upsidedownlabs/muscle-bioamp-biscute-diy-muscle-sensor/) and for assembling your Biscute you can take a look at [this interactive BOM](https://upsidedownlabs.github.io/Muscle-BioAmp-BisCute/) or the step by step guide below. 
 
 | Step 1 - Bare board | Step 2 - 100K Resistor | Step 3 - 10K Resistor| Step 4 - 1M Resistor|
 | :----: | :----: | :----: | :----: |
-| ![](graphics/Assembly/001_board.jpg)|![](graphics/Assembly/002_100K_Resistor.jpg)|![](graphics/Assembly/003_10K_Resistors.jpg)|![](graphics/Assembly/004_1M_Resistors.jpg)|
+| ![](graphics/Assembly/pngs/001_Board.png)|![](graphics/Assembly/pngs/002_100K_Resistor.png)|![](graphics/Assembly/pngs/003_10K_Resistors.png)|![](graphics/Assembly/pngs/004_1M_Resistors.png)|
 
 | Step 5 - 330R Resistor | Step 6 - 220K Resistor | Step 7 - 4.7nF Capacitor | Step 8 - 2.2uF Capacitor |
 | :----: | :----: | :----: | :----: |
-| ![](graphics/Assembly/005_330R_Resistors.jpg)|![](graphics/Assembly/006_220K_Resistor.jpg)|![](graphics/Assembly/007_4.7nF_Capacitor.jpg)|![](graphics/Assembly/008_2.2uF_Capacitor.jpg)|
+| ![](graphics/Assembly/pngs/005_330R_Resistors.png)|![](graphics/Assembly/pngs/006_220K_Resistor.png)|![](graphics/Assembly/pngs/007_4.7nF_Capacitor.png)|![](graphics/Assembly/pngs/008_2.2uF_Capacitor.png)|
 
 | Step 9 - 470uF Capacitor | Step 10 - 100nF Capacitor | Step 11 - 1nF Capacitor | Step 13 - 1K Resistor |
 | :----: | :----: | :----: | :----: |
-| ![](graphics/Assembly/009_470uF_Capacitor.jpg)|![](graphics/Assembly/010_100nF_Capacitors.jpg)|![](graphics/Assembly/011_1nF_Capacitors.jpg)|![](graphics/Assembly/012_1K_Resistor.jpg)|
+| ![](graphics/Assembly/pngs/009_470uF_Capacitor.png)|![](graphics/Assembly/pngs/010_100nF_Capacitors.png)|![](graphics/Assembly/pngs/011_1nF_Capacitors.png)|![](graphics/Assembly/pngs/012_1K_Resistor.png)|
 
 | Step 13 - BioAmp Connector | Step 14 - Header Pin | Step 15 - IC | Step 16 - Biscute ready |
 | :----: | :----: | :----: | :----: |
-| ![](graphics/Assembly/013_Connector.jpg)|![](graphics/Assembly/014_HeaderPin.jpg)|![](graphics/Assembly/015_IC.jpg)|![](graphics/Assembly/016_BisCute.png)|
-
-
-| Dimensions            |  Schematic  |
-| :-------------------------: | :-------------------------: |
-| ![Upside Down Labs Muscle BioAmp BisCute dimensions](graphics/dimensions.png)  | ![Upside Down Labs Muscle BioAmp BisCute schematic](graphics/schematic.png) |
+| ![](graphics/Assembly/pngs/013_Connector.png)|![](graphics/Assembly/pngs/014_HeaderPin.png)|![](graphics/Assembly/pngs/015_IC.png)|![](graphics/Assembly/pngs/016_BisCute.png)|
 
 ## License
 
